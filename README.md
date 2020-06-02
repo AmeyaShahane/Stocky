@@ -1,3 +1,5 @@
+![Sample_Img](https://github.com/AmeyaShahane/StockyBlocky/blob/master/sample_visual.png)
+
 # StockyBlocky:
 * For this project, I have used the Open Frameworks ofxBox2d library to create stock graphs based on the Quandl API.
 I will also use ofSoundPlayer and ofImage for this project. 
