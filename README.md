@@ -10,6 +10,7 @@ I will also use ofSoundPlayer and ofImage for this project.
 * The live CSV recording will be vectorized and passed into closing and opening sub vectors for stock visualization.
 * In moments, the appropriate stock graph will be displayed with proper position and border color scheme in console space.
 * Zoom out of the console in order to get a better view of the stock graph till the point of dimensional bounds.
+* Zoom in towards the console in order to a get a better view of each individual time point via dimensional bounds. 
 
 # Application Configuration Information:
 * This application requires either Visual Studios or XCode IDE.
