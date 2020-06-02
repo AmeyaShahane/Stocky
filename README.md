@@ -1,5 +1,3 @@
-![Zoomed Out](https://github.com/AmeyaShahane/StockyBlocky/blob/master/stockVis.PNG)
-
 # StockyBlocky:
 * For this project, I have used the Open Frameworks ofxBox2d library to create stock graphs based on the Quandl API.
 I will also use ofSoundPlayer and ofImage for this project. 
