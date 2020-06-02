@@ -1,4 +1,4 @@
-# StockyBlocky 04/15/2019:
+# StockyBlocky:
 * For this project, I have used the Open Frameworks ofxBox2d library to create stock graphs based on the Quandl API.
 I will also use ofSoundPlayer and ofImage for this project. 
 
@@ -15,3 +15,4 @@ I will also use ofSoundPlayer and ofImage for this project.
 * Download the project or clone it from the repo.
 * Generate project using OpenFrameworks extension alongside default cpp and header files in repo.
 
+# 04/15/2019
