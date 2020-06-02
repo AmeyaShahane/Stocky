@@ -1,5 +1,5 @@
-# StockyBlocky:
-* For this project, I am using the Open Frameworks ofxBox2d library to create stock graphs based on the Quandl API.
+# StockyBlocky 04/15/2019:
+* For this project, I have used the Open Frameworks ofxBox2d library to create stock graphs based on the Quandl API.
 I will also use ofSoundPlayer and ofImage for this project. 
 
 # Rules:
