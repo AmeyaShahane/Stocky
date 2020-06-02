@@ -15,4 +15,6 @@ I will also use ofSoundPlayer and ofImage for this project.
 * Download the project or clone it from the repo.
 * Generate project using OpenFrameworks extension alongside default cpp and header files in repo.
 
+![Zoomed Out](https://github.com/AmeyaShahane/StockyBlocky/blob/master/stockVis.PNG)
+
 # 04/15/2019
