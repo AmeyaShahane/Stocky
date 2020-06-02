@@ -44,8 +44,7 @@ Parsed values of open and closed values into vectors
 */
 void file_reader::ParseDailyValues() {
 	/**
-	 Source Used: https://social.msdn.microsoft.com/Forums/vstudio/en-US/8b393baf-be07-425e-bac8-a28f55cf9b3a/vectorstring-splitting-at-the-comma?forum=vcgeneral
-	 Reversed finance loop structure to get older - recent opened and closed prices for sub vectors
+	 Syntax: https://social.msdn.microsoft.com/Forums/vstudio/en-US/8b393baf-be07-425e-bac8-a28f55cf9b3a/vectorstring-splitting-at-the-comma?forum=vcgeneral
 	 **/
 	for (int i = finances.size(); i-- > 0; ) {
 
