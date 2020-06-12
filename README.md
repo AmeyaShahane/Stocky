@@ -18,4 +18,4 @@ I will also use ofSoundPlayer and ofImage for this project.
 * Download the project or clone it from the repo.
 * Generate project using OpenFrameworks extension alongside default cpp and header files in repo.
 
-# 04/15/2019
+# 04/15/2019 
